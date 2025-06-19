@@ -19,3 +19,4 @@ C:\Users\Eli\Code Projects (new)\new res changer\ResolutionChangerLauncher\obj\D
 C:\Users\Eli\Code Projects (new)\new res changer\ResolutionChangerLauncher\obj\Debug\net9.0-windows\ResolutionChangerLauncher.pdb
 C:\Users\Eli\Code Projects (new)\new res changer\ResolutionChangerLauncher\obj\Debug\net9.0-windows\ResolutionChangerLauncher.genruntimeconfig.cache
 C:\Users\Eli\Code Projects (new)\new res changer\ResolutionChangerLauncher\obj\Debug\net9.0-windows\ref\ResolutionChangerLauncher.dll
+C:\Users\Eli\Code Projects (new)\new res changer\ResolutionChangerLauncher\obj\Debug\net9.0-windows\ResolutionChangerLauncher.sourcelink.json

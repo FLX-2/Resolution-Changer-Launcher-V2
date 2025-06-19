@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResolutionChangerLauncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db11cd46ed800b861bb62007657f66c85cc3760c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResolutionChangerLauncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResolutionChangerLauncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
